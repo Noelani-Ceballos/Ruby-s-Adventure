@@ -1,3 +1,4 @@
-Base path: '/private/var/folders/tk/_nr8zz516y5gst30r19sx05h0000gq/T/AppTranslocation/BBB13FD8-E7E1-4211-A257-6B14BE85015C/d/Unity.app/Contents', plugins path '/private/var/folders/tk/_nr8zz516y5gst30r19sx05h0000gq/T/AppTranslocation/BBB13FD8-E7E1-4211-A257-6B14BE85015C/d/Unity.app/Contents/PlaybackEngines'
+Base path: '/Applications/2020.3.27f1/Unity.app/Contents', plugins path '/Applications/2020.3.27f1/Unity.app/Contents/PlaybackEngines'
 Cmd: initializeCompiler
 
+Cmd: shutdown
